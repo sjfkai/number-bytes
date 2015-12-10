@@ -1,8 +1,8 @@
 # number-bytes
 
-Get number(double) bytes string.
+Get Number(double) bytes string.
 
-As you know JavaScript save an Number as a [Double-precision floating-point](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+As you know JavaScript save a Number as a [Double-precision floating-point](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
 
 
 # usage
