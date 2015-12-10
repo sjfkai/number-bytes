@@ -1,0 +1,28 @@
+{
+  "name": "print-number-bytes",
+  "version": "1.0.0",
+  "description": "print number(double) bytes in memory",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sjfkai/print-number-bytes.git"
+  },
+  "keywords": [
+    "print",
+    "double",
+    "bytes"
+  ],
+  "author": "sjfkai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sjfkai/print-number-bytes/issues"
+  },
+  "homepage": "https://github.com/sjfkai/print-number-bytes#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
