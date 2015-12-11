@@ -1,4 +1,6 @@
 # number-bytes
+[![Build Status](https://travis-ci.org/sjfkai/number-bytes.svg?branch=master)](https://travis-ci.org/sjfkai/number-bytes)
+[![npm version](https://badge.fury.io/js/number-bytes.svg)](https://badge.fury.io/js/number-bytes)
 
 Get Number(double) bytes string.
 
