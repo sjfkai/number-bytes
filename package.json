@@ -1,6 +1,6 @@
 {
   "name": "number-bytes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a Number(double) bytes string.",
   "main": "index.js",
   "scripts": {
