@@ -24,7 +24,7 @@ module.exports = function(number, option) {
 	}
 
 	var buf = new Buffer(8);
-	buf.writeDoubleBE(number);
+	buf.writeDoubleBE(number,0);
 
 	var bits = [];
 	for (var i = 0; i < 8; i++) {
